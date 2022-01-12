@@ -1,0 +1,37 @@
+body{
+  background-color: black;
+}
+h1{
+  color: #06FF00;
+}
+h3{
+  color:#06FF00;
+}
+h2{
+  color: #06FF00;
+}
+hr{
+  border:1;
+  border-bottom: none;
+}
+p{
+  color: #06FF00;
+}
+li{
+  color:#06FF00;
+}
+td{
+  color:#06FF00;
+}
+a{
+  color:#06FF00 ;
+}
+th{
+  color:#06FF00;
+}
+form{
+  color:#06FF00;
+}
+form{
+  font-style: inherit;
+}
